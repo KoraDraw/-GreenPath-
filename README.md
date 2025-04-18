@@ -1,5 +1,6 @@
 # GreenPath
 **Центр устойчивого туризма и экопутешествий**
+[Посетите наш сайт](https://koradraw.github.io/-GreenPath-/)
 ![Природа](assets/images/baikal.jpg)
 
 ## Описание проекта
