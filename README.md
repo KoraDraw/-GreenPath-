@@ -67,5 +67,11 @@
 ![CSS](https://img.icons8.com/color/48/000000/css3.png) 
 ![Figma](https://img.icons8.com/color/48/000000/figma.png)
 
+## Команда
+
+[![Contributors](https://contrib.rocks/image?repo=KoraDraw-GreenPath-)](https://github.com/NatashaKold/Project2_SecondGroup_Frontend94/graphs/contributors)
+
+---
+
 ## Заключение
 Сайт "GreenPath" станет платформой для бронирования экотуров и источником информации о принципах устойчивого туризма. Он будет способствовать формированию сообщества осознанных путешественников, поддерживающих сохранение природы.
