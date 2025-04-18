@@ -69,7 +69,7 @@
 
 ## Команда
 
-[![Contributors](https://contrib.rocks/image?repo=KoraDraw-GreenPath-)](https://github.com/NatashaKold/Project2_SecondGroup_Frontend94/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=NatashaKold/Project2_SecondGroup_Frontend94)](https://github.com/NatashaKold/Project2_SecondGroup_Frontend94/graphs/contributors)
 
 ---
 
